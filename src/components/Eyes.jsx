@@ -22,7 +22,7 @@ function Eyes() {
 
     return (
         <div className='w-full h-screen overflow-hidden'>
-            <div data-scroll data-scroll-speed = '-.6' className='relative w-full h-full bg-[url("./eye.jpg")] bg-cover bg-center'>
+            <div data-scroll data-scroll-speed = '-.6' className='relative w-full h-full bg-[url("/eye.jpg")] bg-cover bg-center'>
                 <div className='absolute flex gap-10 top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]'>
                     <div className='relative w-[15vw] h-[15vw] rounded-full bg-gray-100'>
                         <div className='absolute h-[10vw] w-[10vw] rounded-full flex justify-center items-center bg-black top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]'>
