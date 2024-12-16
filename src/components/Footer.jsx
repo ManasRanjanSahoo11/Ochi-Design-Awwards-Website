@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return (
-        <div className='w-full h-screen bg-[#022b25] text-white p-20'>
+        <div className='w-full min-h-screen bg-[#022b25] text-white p-20'>
             <div>
                 <div className='flex items-start justify-between gap-10'>
                     <div>
